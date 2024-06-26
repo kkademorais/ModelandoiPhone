@@ -1,17 +1,18 @@
 package model.AparelhoTelefonico;
 
-public class telefone {
 
-    public void ligar(String numero){
+public interface AparelhoTelefonico {
+
+    default void ligar(String numero){
         System.out.printf("\nLigando para o número: %s ", numero);
     }
 
 
-    public void atender(){
+    default void atender(){
         System.out.println("Ligação atendida e em andamento");
     }
 
-    public void iniciarCorreioVoz(){
+    default void iniciarCorreioVoz(){
         System.out.println("Ligação não atendida -> caiu na Caixa Postal");
     }
 

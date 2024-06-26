@@ -1,27 +1,25 @@
 package model.ReprodutorMusical;
 
-public class iPod {
+public interface ReprodutorMusical {
 
-
-    private void tocar(){
+    default void tocar(){
         System.out.println("Tocando música selecionada!");
     }
 
-    public void pausar(){
+    default void pausar(){
         System.out.println("Música pausada...");
     }
 
-    public void retomar(){
+    default void retomar(){
         System.out.println("Reprodução da música retomada!");
     }
 
-    public void pular(){
+    default void pular(){
         System.out.println("Passando para a próxima música...");
     }
 
-    public void selecionarMusica(String musica){
-        System.out.printf("\nMúsica selecionada: %s\n", musica);
-        tocar();
+    default void selecionarMusica(String musica){
+        System.out.printf("\nMúsica selecionada: %s", musica);
     }
 
 }
