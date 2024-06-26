@@ -2,24 +2,14 @@ package model.ReprodutorMusical;
 
 public interface ReprodutorMusical {
 
-    default void tocar(){
-        System.out.println("Tocando música selecionada!");
-    }
+    void tocar();
 
-    default void pausar(){
-        System.out.println("Música pausada...");
-    }
+    void pausar();
 
-    default void retomar(){
-        System.out.println("Reprodução da música retomada!");
-    }
+    void retomar();
 
-    default void pular(){
-        System.out.println("Passando para a próxima música...");
-    }
+    void pular();
 
-    default void selecionarMusica(String musica){
-        System.out.printf("\nMúsica selecionada: %s", musica);
-    }
+    void selecionarMusica(String musica);
 
 }

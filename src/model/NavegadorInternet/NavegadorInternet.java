@@ -2,16 +2,10 @@ package model.NavegadorInternet;
 
 public interface NavegadorInternet {
 
-    default void exibirPagina(String url){
-        System.out.printf("\nExibindo página atual: %s", url);
-    }
+    void exibirPagina(String url);
 
-    default void adicionarNovaAba(){
-        System.out.println("Nova aba adicionada!");
-    }
+    void adicionarNovaAba();
 
-    default void atualizarPagina(){
-        System.out.println("Atualizando página...");
-    }
+    void atualizarPagina();
 
 }

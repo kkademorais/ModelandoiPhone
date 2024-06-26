@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da2c8d2c-24ab-4295-afbd-18c16f3d0fe2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/iPhoneBastiao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/AparelhoTelefonico/AparelhoTelefonico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/NavegadorInternet/NavegadorInternet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/ReprodutorMusical/ReprodutorMusical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/iPhone/iPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/iPhone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/AparelhoTelefonico/telefone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/AparelhoTelefonico/telefone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/NavegadorInternet/desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/NavegadorInternet/desktop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/ReprodutorMusical/iPod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ReprodutorMusical/iPod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/iPhoneBastiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/iPhoneBastiao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/AparelhoTelefonico/AparelhoTelefonico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/AparelhoTelefonico/AparelhoTelefonico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/NavegadorInternet/NavegadorInternet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/NavegadorInternet/NavegadorInternet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/ReprodutorMusical/ReprodutorMusical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/ReprodutorMusical/ReprodutorMusical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/iPhone/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/iPhone/iPhone.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -43,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.iPhone.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
