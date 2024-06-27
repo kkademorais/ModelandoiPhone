@@ -12,4 +12,3 @@
 > Primeiro projeto utilizando conceitos de:
 - Pilares do POO (Encapsulamento, Herança, Abstração, Polimorfismo)
 - Interfaces
-- Encapsulamento
