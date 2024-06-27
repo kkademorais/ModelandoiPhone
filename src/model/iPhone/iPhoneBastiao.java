@@ -1,4 +1,4 @@
-package main;
+package model.iPhone;
 
 import model.AparelhoTelefonico.AparelhoTelefonico;
 import model.NavegadorInternet.NavegadorInternet;
@@ -54,6 +54,7 @@ public class iPhoneBastiao implements AparelhoTelefonico, NavegadorInternet, Rep
 
     public void selecionarMusica(String musica){
         System.out.printf("\nMúsica selecionada: %s \n", musica);
+        tocar();
     }
 
 
